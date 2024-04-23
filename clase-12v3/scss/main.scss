@@ -1,0 +1,22 @@
+main{ 
+    h1 {
+    color: red;
+    height: 30px;
+
+}
+}
+nav{
+    background-color: aqua;
+    box-shadow: 2px 2px 2px 2px;
+    ul{
+        display: flex;
+        justify-content: center;
+        li{
+            padding: 50px;
+            a{ 
+                text-decoration: none;
+                color: black;
+            }
+        }
+    }
+}
